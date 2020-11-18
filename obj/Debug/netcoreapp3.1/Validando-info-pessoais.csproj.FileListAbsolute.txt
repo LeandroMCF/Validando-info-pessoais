@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\bin\Debug\netcoreapp3.1\Validando-info-pessoais.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Senai\Validando-info-pessoais\obj\Debug\netcoreapp3.1\Validando-info-pessoais.genruntimeconfig.cache

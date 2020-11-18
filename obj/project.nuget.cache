@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9ZEj13Orabhy1CoOpo3gd/tDWuTxINmSYwvKvKz8x914rmf1iDdtDqbLAIJwtEV48ga4Ex4mKf1n0e7gQfZFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Senai\\Validando-info-pessoais\\Validando-info-pessoais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
